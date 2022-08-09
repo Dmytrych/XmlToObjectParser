@@ -1,0 +1,17 @@
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\bin\Debug\net6.0\XmlToObjectParser.exe
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\bin\Debug\net6.0\XmlToObjectParser.deps.json
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\bin\Debug\net6.0\XmlToObjectParser.runtimeconfig.json
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\bin\Debug\net6.0\XmlToObjectParser.dll
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\bin\Debug\net6.0\XmlToObjectParser.pdb
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.csproj.AssemblyReference.cache
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.AssemblyInfoInputs.cache
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.AssemblyInfo.cs
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.csproj.CoreCompileInputs.cache
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.csproj.CopyComplete
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.dll
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\refint\XmlToObjectParser.dll
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.pdb
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\XmlToObjectParser.genruntimeconfig.cache
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net6.0\ref\XmlToObjectParser.dll

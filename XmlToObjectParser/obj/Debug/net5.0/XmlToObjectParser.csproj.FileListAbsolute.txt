@@ -1,0 +1,5 @@
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net5.0\XmlToObjectParser.csproj.AssemblyReference.cache
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net5.0\XmlToObjectParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net5.0\XmlToObjectParser.AssemblyInfoInputs.cache
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net5.0\XmlToObjectParser.AssemblyInfo.cs
+C:\Users\Lampa\RiderProjects\XmlToObjectParser\XmlToObjectParser\obj\Debug\net5.0\XmlToObjectParser.csproj.CoreCompileInputs.cache
